@@ -100,6 +100,64 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 ## Steps involved in the Project
 
+- Importing Libraries
+
+  - Importing Pandas, Matplotlib and Seaborn Libraries.
+
+- Reading CSV File
+
+  - Reading CSV File by using pd.read_csv() function.
+
+- Overview of the Dataset
+
+  - Information about shape and size of the Dataset.
+ 
+  - Columns present in the Dataset.
+ 
+  - Info about the Dataset.
+
+- Handling Null values in the Dataset
+
+  - Filling the Null values with most frequent category in the Columns.
+
+- Changing DataType of Columns
+
+  - Modifying the DataType of date_added column to Pandas DateTime Format.
+
+- Utilizing existing information to create new Columns
+
+  - Extracting Year, Month and Dates from date_added Column.
+ 
+  - Splitting listed_in column and selecting first value as Genre.
+ 
+  - Splitting cast column and selecting first value as Lead Actor.
+
+- Splitting the Dataset
+
+  - Splitting the Dataset based on type of Content, i.e TV Shows and Movies.
+
+- Statistical Analysis
+
+  - No. of TV Shows and Movies available on Netflix
+ 
+  - No. of shows in each Rating Category
+ 
+  - No. of shows released each Year, etc.
+
+- Data Visualization
+
+  - No. of TV Shows and Movies available on Netflix
+
+![download](https://github.com/user-attachments/assets/bd749a85-b52a-49de-98a5-61ac9fc2678b)
+
+  - No. of shows in each Rating Category
+
+![download](https://github.com/user-attachments/assets/af7869ce-4503-4c6f-9307-a5d448d59d6e)
+
+  - No. of shows uploaded on Netflix each Year
+
+![download](https://github.com/user-attachments/assets/a93dd5a9-5381-427c-bef6-87ec41f582b9)
+
 ## Conclusion
 
 - In summary, this analysis has provided valuable insights into Netflix’s content library, revealing trends and patterns that can inform strategic decisions.
