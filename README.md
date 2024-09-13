@@ -6,7 +6,7 @@
 
 ## Dataset
 
-- The dataset used for this analysis is sourced from Kaggle and includes information on Netflix TV Shows and Movies.
+The dataset used for this analysis is sourced from Kaggle and includes information on Netflix TV Shows and Movies.
 
 **Link to the Dataset :** [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
@@ -26,7 +26,7 @@ This Exploratory Data Analysis (EDA) aims to address the following key questions
 
 By addressing these questions, this EDA aims to provide a comprehensive overview of Netflix's content, helping stakeholders make informed decisions and uncovering trends that could impact business and user experience.  
 
-![download](https://github.com/user-attachments/assets/99768abc-544f-4691-991b-b468d9718362)
+![download](https://github.com/user-attachments/assets/8545eb2b-b11d-4190-9479-f50214b0b914)
 
 ## Table of Contents
 
