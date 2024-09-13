@@ -12,10 +12,6 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
 ## Problem Statement
 
-- To gain insights into the content available on Netflix understand the distribution of genres and explore patterns related to release years, ratings and other attributes.
-
-- Through visualizations and statistical analysis, we will gain a deeper understanding of Netflix's content landscape, offering valuable insights into how the platform curates and evolves its offerings.
-
 ![download](https://github.com/user-attachments/assets/7943a42f-12c2-4e59-a2cc-9c5396837cfa)
 
 ## Table of Contents
