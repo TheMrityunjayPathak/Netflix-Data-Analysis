@@ -12,19 +12,21 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
 ## Problem Statement
 
+- To gain insights into the content available on Netflix understand the distribution of genres and explore patterns related to release years, ratings and other attributes.
+
+- Through visualizations and statistical analysis, we will gain a deeper understanding of Netflix's content landscape, offering valuable insights into how the platform curates and evolves its offerings.
+
 This Exploratory Data Analysis (EDA) aims to address the following key questions :
 
-- **Content Distribution :** What are the distribution patterns of TV shows and movies across different genres and countries? How does the content vary in terms of release year and rating?
+  - **Content Distribution :** What are the distribution patterns of TV shows and movies across different genres and countries? How does the content vary in terms of release year and rating?
 
-- **Trend Analysis :** Are there observable trends in the release of TV shows and movies over time? How has the number of new additions to Netflix's library evolved?
+  - **Trend Analysis :** Are there observable trends in the release of TV shows and movies over time? How has the number of new additions to Netflix's library evolved?
 
-- **Genre Popularity :** What are the most and least popular genres in Netflix’s library? How does genre popularity differ by region or over time?
+  - **Genre Popularity :** What are the most and least popular genres in Netflix’s library? How does genre popularity differ by region or over time?
 
-- **Content Characteristics :** What are the typical characteristics (e.g., duration, rating) of TV shows vs movies? How do these characteristics vary by genre or release year?
+  - **Content Characteristics :** What are the typical characteristics (e.g., duration, rating) of TV shows vs movies? How do these characteristics vary by genre or release year?
 
-- **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
-
-By addressing these questions, this EDA aims to provide a comprehensive overview of Netflix's content, helping stakeholders make informed decisions and uncovering trends that could impact business and user experience.  
+  - **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
 
 ![download](https://github.com/user-attachments/assets/7943a42f-12c2-4e59-a2cc-9c5396837cfa)
 
