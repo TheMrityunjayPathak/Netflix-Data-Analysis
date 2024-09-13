@@ -14,7 +14,7 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
 - To gain insights into the content available on Netflix, understanding the patterns and trends to uncover valuable insights into how the platform curates and evolves its offerings.
 
-This Exploratory Data Analysis (EDA) aims to address the following key questions :
+- This Exploratory Data Analysis (EDA) aims to address the following key questions :
 
   - **Content Distribution :** What are the distribution patterns of TV shows and movies across different genres and countries? How does the content vary in terms of release year and rating?
 
