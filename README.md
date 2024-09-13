@@ -1,16 +1,32 @@
 ## Netflix Data Analysis
 
-Hello Everyone,
+- Netflix has become a major player in the entertainment industry offering a diverse array of TV Shows and Movies to its global audience.
 
-Here is My EDA Project based on Netflix TV Shows and Movies Data where I analyzed the Data by using Pandas, Matplotlib and Seaborn.
+- This dataset provides a snapshot of Netflix's content library including various attributes such as titles, genres, release years, ratings and durations.
 
 ## Dataset
 
-The dataset used for this analysis is sourced from Kaggle and includes information on Netflix TV Shows and Movies.
+- The dataset used for this analysis is sourced from Kaggle and includes information on Netflix TV Shows and Movies.
 
 **Link to the Dataset :** [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Problem Statement
+
+This Exploratory Data Analysis (EDA) aims to address the following key questions :
+
+- **Content Distribution :** What are the distribution patterns of TV shows and movies across different genres and countries? How does the content vary in terms of release year and rating?
+
+- **Trend Analysis :** Are there observable trends in the release of TV shows and movies over time? How has the number of new additions to Netflix's library evolved?
+
+- **Genre Popularity :** What are the most and least popular genres in Netflix’s library? How does genre popularity differ by region or over time?
+
+- **Content Characteristics :** What are the typical characteristics (e.g., duration, rating) of TV shows vs movies? How do these characteristics vary by genre or release year?
+
+- **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
+
+By addressing these questions, this EDA aims to provide a comprehensive overview of Netflix's content, helping stakeholders make informed decisions and uncovering trends that could impact business and user experience.  
+
+![download](https://github.com/user-attachments/assets/99768abc-544f-4691-991b-b468d9718362)
 
 ## Table of Contents
 
