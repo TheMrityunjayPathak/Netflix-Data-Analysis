@@ -26,7 +26,7 @@ This Exploratory Data Analysis (EDA) aims to address the following key questions
 
 By addressing these questions, this EDA aims to provide a comprehensive overview of Netflix's content, helping stakeholders make informed decisions and uncovering trends that could impact business and user experience.  
 
-![netflix](https://github.com/user-attachments/assets/f71b1640-6e2f-4185-bea1-128d2c61948e)
+![download](https://github.com/user-attachments/assets/7943a42f-12c2-4e59-a2cc-9c5396837cfa)
 
 ## Table of Contents
 
