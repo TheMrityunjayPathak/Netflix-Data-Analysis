@@ -26,8 +26,6 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
   - **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
  
-This analysis will provide Netflix with a deeper understanding of its content library, revealing trends and patterns that can inform future content strategy and development.
- 
 ![download](https://github.com/user-attachments/assets/7943a42f-12c2-4e59-a2cc-9c5396837cfa)
 
 ## Table of Contents
@@ -100,15 +98,15 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 ## Steps involved in the Project
 
-- Importing Libraries
+- **Importing Libraries**
 
   - Importing Pandas, Matplotlib and Seaborn Libraries.
 
-- Reading CSV File
+- **Reading CSV File**
 
   - Reading CSV File by using pd.read_csv() function.
 
-- Overview of the Dataset
+- **Overview of the Dataset**
 
   - Information about shape and size of the Dataset.
  
@@ -116,15 +114,15 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
  
   - Info about the Dataset.
 
-- Handling Null values in the Dataset
+- **Handling Null values in the Dataset**
 
   - Filling the Null values with most frequent category in the Columns.
 
-- Changing DataType of Columns
+- **Changing DataType of Columns**
 
   - Modifying the DataType of date_added column to Pandas DateTime Format.
 
-- Utilizing existing information to create new Columns
+- **Utilizing existing information to create new Columns**
 
   - Extracting Year, Month and Dates from date_added Column.
  
@@ -132,11 +130,11 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
  
   - Splitting cast column and selecting first value as Lead Actor.
 
-- Splitting the Dataset
+- **Splitting the Dataset**
 
   - Splitting the Dataset based on type of Content, i.e TV Shows and Movies.
 
-- Statistical Analysis
+- **Statistical Analysis**
 
   - No. of TV Shows and Movies available on Netflix
  
@@ -144,7 +142,7 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
  
   - No. of shows released each Year, etc.
 
-- Data Visualization
+- **Data Visualization**
 
   - No. of TV Shows and Movies available on Netflix
 
@@ -157,6 +155,50 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
   - No. of shows uploaded on Netflix each Year
 
 ![download](https://github.com/user-attachments/assets/a93dd5a9-5381-427c-bef6-87ec41f582b9)
+
+  - No. of shows uploaded on Netflix each Month
+    
+![download](https://github.com/user-attachments/assets/d5f496e6-bb1f-46d0-b647-9131e1d8cb5b)
+
+  - No. of shows uploaded on Netflix each Day
+
+![download](https://github.com/user-attachments/assets/8b142693-562d-4c12-b0de-445f69c4a2bf)
+
+  - No. of shows available on Netflix in each Country
+
+![download](https://github.com/user-attachments/assets/b3ce1496-cda4-465e-ab1f-26058deb26ca)
+
+  - No. of Movies released on Netflix in each Genre
+
+![download](https://github.com/user-attachments/assets/26806eff-d947-4ac6-88d7-43ab4bdf2871)
+
+  - No. of TV Shows released on Netflix in each Genre
+
+![download](https://github.com/user-attachments/assets/79a17db7-372e-46ee-bf6f-23e500f7e342)
+
+  - No. of Movies for a Lead Actor on Netflix
+
+![download](https://github.com/user-attachments/assets/0debdf45-76ce-4701-a719-67b9427cdb97)
+
+  - No. of TV Shows for a Lead Actor on Netflix
+    
+![download](https://github.com/user-attachments/assets/8980ee12-992a-450b-b386-48d161e1f841)
+
+  - Avg. Length of Movies in each Genre
+
+![download](https://github.com/user-attachments/assets/978e7431-0722-4ff3-80bf-2db9354ddb62)
+
+  - Avg. Length of TV Shows in each Genre
+
+![download](https://github.com/user-attachments/assets/92cf645f-c077-41eb-a3ce-32a2b6c6270c)
+
+  - Distribution of Length of Movies on Netflix
+
+![download](https://github.com/user-attachments/assets/d6d66d67-6b74-4c42-9849-5f9c43545507)
+
+  - Distribution of Seasons of TV Shows on Netflix
+
+![download](https://github.com/user-attachments/assets/f1008cc9-942c-45de-ac43-9bd2ec078e03)
 
 ## Conclusion
 
