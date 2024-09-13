@@ -25,7 +25,9 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
   - **Content Characteristics :** What are the typical characteristics (e.g., duration, rating) of TV shows vs movies? How do these characteristics vary by genre or release year?
 
   - **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
-
+ 
+This analysis will provide Netflix with a deeper understanding of its content library, revealing trends and patterns that can inform future content strategy and development.
+ 
 ![download](https://github.com/user-attachments/assets/7943a42f-12c2-4e59-a2cc-9c5396837cfa)
 
 ## Table of Contents
