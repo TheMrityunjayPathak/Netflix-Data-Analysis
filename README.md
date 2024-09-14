@@ -28,7 +28,7 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
  
 - This analysis will provide a deeper understanding of Netflix content library, revealing trends and patterns that can address future content strategy and development.
  
-![download](https://github.com/user-attachments/assets/7943a42f-12c2-4e59-a2cc-9c5396837cfa)
+![download](https://github.com/user-attachments/assets/2d384e6d-101e-4cc8-b0b5-bafa90f6058c)
 
 ## Table of Contents
 
