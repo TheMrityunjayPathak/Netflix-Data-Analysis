@@ -28,7 +28,7 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
  
 - This analysis will provide a deeper understanding of Netflix content library, revealing trends and patterns that can address future content strategy and development.
 
-<a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis"><img src="https://github.com/user-attachments/assets/2b382882-9109-4b1f-bac5-30ecc2365e06"/></a>
+![Netflix](https://github.com/user-attachments/assets/2b382882-9109-4b1f-bac5-30ecc2365e06)
 
 ## Table of Contents
 
@@ -37,7 +37,6 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 - [Getting started with Repository](#getting-started)
 - [Steps involved in the Project](#steps-involved-in-the-project)
 - [Conclusion](#conclusion)
-- [Link to the Notebook](#link-to-the-notebook)
 
 ## Setting up the Enviroment
 
@@ -207,10 +206,6 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 - In summary, this analysis has provided valuable insights into Netflix’s content library, revealing trends and patterns that can inform strategic decisions.
 
 - By addressing these insights, Netflix can enhance its content offerings and better meet the needs of its global audience.
-
-## Link to the Notebook
-
-[Netflix Data Analysis](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 
 | [Scroll to Top ⬆️](#netflix-data-analysis) |
 |:---:|
