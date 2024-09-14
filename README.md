@@ -26,6 +26,8 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
   - **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
  
+- This analysis will provide a deeper understanding of Netflix content library, revealing trends and patterns that can address future content strategy and development.
+ 
 ![download](https://github.com/user-attachments/assets/7943a42f-12c2-4e59-a2cc-9c5396837cfa)
 
 ## Table of Contents
