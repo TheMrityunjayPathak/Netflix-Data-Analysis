@@ -1,8 +1,8 @@
 ## Netflix Data Analysis
 
-- Netflix has become a major player in the entertainment industry offering a diverse array of TV Shows and Movies to its global audience.
+Netflix has become a major player in the entertainment industry offering a diverse array of TV Shows and Movies to its global audience.
 
-- This dataset provides a snapshot of Netflix's content library including various attributes such as titles, genres, release years, ratings and durations.
+This dataset provides a snapshot of Netflix's content library including various attributes such as titles, genres, release years, ratings and durations.
 
 ## Dataset
 
