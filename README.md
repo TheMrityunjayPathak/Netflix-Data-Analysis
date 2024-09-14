@@ -102,39 +102,39 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 - **Importing Libraries**
 
-  - Importing Pandas, Matplotlib and Seaborn Libraries.
+  - Importing Pandas, Matplotlib and Seaborn Libraries
 
 - **Reading CSV File**
 
-  - Reading CSV File by using pd.read_csv() function.
+  - Reading CSV File by using pd.read_csv() function
 
 - **Overview of the Dataset**
 
-  - Information about shape and size of the Dataset.
+  - Information about shape and size of the Dataset
  
-  - Columns present in the Dataset.
+  - Columns present in the Dataset
  
-  - Info about the Dataset.
+  - Info about the Dataset
 
 - **Handling Null values in the Dataset**
 
-  - Filling the Null values with most frequent category in the Columns.
+  - Filling the Null values with most frequent category in the Columns
 
 - **Changing DataType of Columns**
 
-  - Modifying the DataType of date_added column to Pandas DateTime Format.
+  - Modifying the DataType of date_added column to Pandas DateTime Format
 
 - **Utilizing existing information to create new Columns**
 
-  - Extracting Year, Month and Dates from date_added Column.
+  - Extracting Year, Month and Dates from date_added Column
  
-  - Splitting listed_in column and selecting first value as Genre.
+  - Splitting listed_in column and selecting first value as Genre
  
-  - Splitting cast column and selecting first value as Lead Actor.
+  - Splitting cast column and selecting first value as Lead Actor
 
 - **Splitting the Dataset**
 
-  - Splitting the Dataset based on type of Content, i.e TV Shows and Movies.
+  - Splitting the Dataset based on type of Content, i.e TV Shows and Movies
 
 - **Statistical Analysis**
 
