@@ -210,7 +210,7 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 ## Link to the Notebook
 
-[Netflix Data Analysis]()
+[Netflix Data Analysis](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 
 | [Scroll to Top ⬆️](#netflix-data-analysis) |
 |:---:|
