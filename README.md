@@ -146,59 +146,59 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 - **Data Visualization**
 
-  - No. of TV Shows and Movies available on Netflix
+- No. of TV Shows and Movies available on Netflix
 
 ![download](https://github.com/user-attachments/assets/bd749a85-b52a-49de-98a5-61ac9fc2678b)
 
-  - No. of shows in each Rating Category
+- No. of shows in each Rating Category
 
 ![download](https://github.com/user-attachments/assets/af7869ce-4503-4c6f-9307-a5d448d59d6e)
 
-  - No. of shows uploaded on Netflix each Year
+- No. of shows uploaded on Netflix each Year
 
 ![download](https://github.com/user-attachments/assets/a93dd5a9-5381-427c-bef6-87ec41f582b9)
 
-  - No. of shows uploaded on Netflix each Month
+- No. of shows uploaded on Netflix each Month
     
 ![download](https://github.com/user-attachments/assets/d5f496e6-bb1f-46d0-b647-9131e1d8cb5b)
 
-  - No. of shows uploaded on Netflix each Day
+- No. of shows uploaded on Netflix each Day
 
 ![download](https://github.com/user-attachments/assets/8b142693-562d-4c12-b0de-445f69c4a2bf)
 
-  - No. of shows available on Netflix in each Country
+- No. of shows available on Netflix in each Country
 
 ![download](https://github.com/user-attachments/assets/b3ce1496-cda4-465e-ab1f-26058deb26ca)
 
-  - No. of Movies released on Netflix in each Genre
+- No. of Movies released on Netflix in each Genre
 
 ![download](https://github.com/user-attachments/assets/26806eff-d947-4ac6-88d7-43ab4bdf2871)
 
-  - No. of TV Shows released on Netflix in each Genre
+- No. of TV Shows released on Netflix in each Genre
 
 ![download](https://github.com/user-attachments/assets/79a17db7-372e-46ee-bf6f-23e500f7e342)
 
-  - No. of Movies for a Lead Actor on Netflix
+- No. of Movies for a Lead Actor on Netflix
 
 ![download](https://github.com/user-attachments/assets/0debdf45-76ce-4701-a719-67b9427cdb97)
 
-  - No. of TV Shows for a Lead Actor on Netflix
+- No. of TV Shows for a Lead Actor on Netflix
     
 ![download](https://github.com/user-attachments/assets/8980ee12-992a-450b-b386-48d161e1f841)
 
-  - Avg. Length of Movies in each Genre
+- Avg. Length of Movies in each Genre
 
 ![download](https://github.com/user-attachments/assets/978e7431-0722-4ff3-80bf-2db9354ddb62)
 
-  - Avg. Length of TV Shows in each Genre
+- Avg. Length of TV Shows in each Genre
 
 ![download](https://github.com/user-attachments/assets/92cf645f-c077-41eb-a3ce-32a2b6c6270c)
 
-  - Distribution of Length of Movies on Netflix
+- Distribution of Length of Movies on Netflix
 
 ![download](https://github.com/user-attachments/assets/d6d66d67-6b74-4c42-9849-5f9c43545507)
 
-  - Distribution of Seasons of TV Shows on Netflix
+- Distribution of Seasons of TV Shows on Netflix
 
 ![download](https://github.com/user-attachments/assets/f1008cc9-942c-45de-ac43-9bd2ec078e03)
 
