@@ -212,5 +212,4 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 [Netflix Data Analysis](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
 
-| [Scroll to Top ⬆️](#netflix-data-analysis) |
-|:---:|
+**[`^        Scroll to Top       ^`](#netflix-data-analysis)**
