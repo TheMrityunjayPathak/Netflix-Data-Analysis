@@ -37,7 +37,6 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 - [Getting started with Repository](#getting-started)
 - [Steps involved in the Project](#steps-involved-in-the-project)
 - [Conclusion](#conclusion)
-- [Link to the Notebook](#link-to-the-notebook)
 
 ## Setting up the Enviroment
 
@@ -208,8 +207,8 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 - By addressing these insights, Netflix can enhance its content offerings and better meet the needs of its global audience.
 
-## Link to the Notebook
-
-[Netflix Data Analysis](https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis)
-
+<div align='right'>
+  
 **[`^        Scroll to Top       ^`](#netflix-data-analysis)**
+
+</div>
