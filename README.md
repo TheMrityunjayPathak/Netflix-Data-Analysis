@@ -56,44 +56,44 @@ jupyter notebook
 
 **Pandas**
 
-- Go to Terminal and run this Code
+- Go to the terminal and run this code
 ```
 pip install pandas
 ```
 
-- Go to Jupyter Notebook and run this Code from a Cell
+- Go to Jupyter Notebook and run this code from a cell
 ```
 !pip install pandas
 ```
 
 **Matplotlib**
 
-- Go to Terminal and run this Code
+- Go to the terminal and run this code
 ```
 pip install matplotlib
 ```
 
-- Go to Jupyter Notebook and run this Code from a Cell
+- Go to Jupyter Notebook and run this code from a cell
 ```
 !pip install matplotlib
 ```
 
 **Seaborn**
 
-- Go to Terminal and run this Code
+- Go to the terminal and run this code
 ```
 pip install seaborn
 ```
 
-- Go to Jupyter Notebook and run this Code from a Cell
+- Go to Jupyter Notebook and run this code from a cell
 ```
 !pip install seaborn
 ```
 
 ## Getting Started
 
-- Clone the repository to your local machine using the following command :
-```
+- Clone this repository to your local machine by using the following command :
+```bash
 git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 ```
 
@@ -101,47 +101,47 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 **Importing Libraries**
 
-  - Importing Pandas, Matplotlib and Seaborn Libraries
+  - Importing Pandas, Matplotlib and Seaborn libraries
 
 **Reading CSV File**
 
-  - Reading CSV File by using pd.read_csv() function
+  - Reading csv file by using pd.read_csv() function
 
 **Overview of the Dataset**
 
-  - Information about shape and size of the Dataset
+  - Information about shape and size of the dataset
  
-  - Columns present in the Dataset
+  - Columns present in the dataset
  
-  - Info about the Dataset
+  - Info about the dataset
 
 **Handling Null values in the Dataset**
 
-  - Filling the Null values with most frequent category in the Columns
+  - Filling the null values with most frequent category in the columns
 
 **Changing DataType of Columns**
 
-  - Modifying the DataType of date_added column to Pandas DateTime Format
+  - Modifying the datatype of date_added column to pandas datetime format
 
 **Utilizing existing information to create new Columns**
 
-  - Extracting Year, Month and Dates from date_added Column
+  - Extracting Year, Month and Dates from date_added column
  
-  - Splitting listed_in column and selecting first value as Genre
+  - Splitting listed_in column and selecting first value as genre
  
-  - Splitting cast column and selecting first value as Lead Actor
+  - Splitting cast column and selecting first value as lead actor
 
 **Splitting the Dataset**
 
-  - Splitting the Dataset based on type of Content, i.e TV Shows and Movies
+  - Splitting the dataset based on type of content, i.e TV Shows and Movies
 
 **Statistical Analysis**
 
   - No. of TV Shows and Movies available on Netflix
  
-  - No. of shows in each Rating Category
+  - No. of shows in each rating category
  
-  - No. of shows released each Year, etc.
+  - No. of shows released each year, etc.
 
 **Data Visualization**
 
@@ -149,55 +149,55 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 ![download](https://github.com/user-attachments/assets/bd749a85-b52a-49de-98a5-61ac9fc2678b)
 
-  - No. of shows in each Rating Category
+  - No. of shows in each rating category
 
 ![download](https://github.com/user-attachments/assets/af7869ce-4503-4c6f-9307-a5d448d59d6e)
 
-  - No. of shows uploaded on Netflix each Year
+  - No. of shows uploaded on Netflix each year
 
 ![download](https://github.com/user-attachments/assets/a93dd5a9-5381-427c-bef6-87ec41f582b9)
 
-  - No. of shows uploaded on Netflix each Month
+  - No. of shows uploaded on Netflix each month
     
 ![download](https://github.com/user-attachments/assets/d5f496e6-bb1f-46d0-b647-9131e1d8cb5b)
 
-  - No. of shows uploaded on Netflix each Day
+  - No. of shows uploaded on Netflix each day
 
 ![download](https://github.com/user-attachments/assets/8b142693-562d-4c12-b0de-445f69c4a2bf)
 
-  - No. of shows available on Netflix in each Country
+  - No. of shows available on Netflix in each country
 
 ![download](https://github.com/user-attachments/assets/b3ce1496-cda4-465e-ab1f-26058deb26ca)
 
-  - No. of Movies released on Netflix in each Genre
+  - No. of Movies released on Netflix in each genre
 
 ![download](https://github.com/user-attachments/assets/26806eff-d947-4ac6-88d7-43ab4bdf2871)
 
-  - No. of TV Shows released on Netflix in each Genre
+  - No. of TV Shows released on Netflix in each genre
 
 ![download](https://github.com/user-attachments/assets/79a17db7-372e-46ee-bf6f-23e500f7e342)
 
-  - No. of Movies for a Lead Actor on Netflix
+  - No. of Movies for a lead actor on Netflix
 
 ![download](https://github.com/user-attachments/assets/0debdf45-76ce-4701-a719-67b9427cdb97)
 
-  - No. of TV Shows for a Lead Actor on Netflix
+  - No. of TV Shows for a lead actor on Netflix
     
 ![download](https://github.com/user-attachments/assets/8980ee12-992a-450b-b386-48d161e1f841)
 
-  - Avg. Length of Movies in each Genre
+  - Avg. length of Movies in each genre
 
 ![download](https://github.com/user-attachments/assets/978e7431-0722-4ff3-80bf-2db9354ddb62)
 
-  - Avg. Length of TV Shows in each Genre
+  - Avg. length of TV Shows in each genre
 
 ![download](https://github.com/user-attachments/assets/92cf645f-c077-41eb-a3ce-32a2b6c6270c)
 
-  - Distribution of Length of Movies on Netflix
+  - Distribution of length of Movies on Netflix
 
 ![download](https://github.com/user-attachments/assets/d6d66d67-6b74-4c42-9849-5f9c43545507)
 
-  - Distribution of Seasons of TV Shows on Netflix
+  - Distribution of seasons of TV Shows on Netflix
 
 ![download](https://github.com/user-attachments/assets/f1008cc9-942c-45de-ac43-9bd2ec078e03)
 
@@ -207,7 +207,7 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 - By addressing these insights, Netflix can enhance its content offerings and better meet the needs of its global audience.
 
-<div align='right'>
+<div align='left'>
   
 **[`^        Scroll to Top       ^`](#netflix-data-analysis)**
 
