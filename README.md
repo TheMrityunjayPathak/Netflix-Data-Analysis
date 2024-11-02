@@ -16,13 +16,13 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
 - This Exploratory Data Analysis (EDA) aims to address the following key questions :
 
-  - **Content Distribution :** What are the distribution patterns of TV shows and movies across different genres and countries? How does the content vary in terms of release year and rating?
+  - **Content Distribution :** What are the distribution patterns of TV Shows and Movies across different genres and countries? How does the content vary in terms of release year and rating?
 
-  - **Trend Analysis :** Are there observable trends in the release of TV shows and movies over time? How has the number of new additions to Netflix's library evolved?
+  - **Trend Analysis :** Are there observable trends in the release of TV Shows and Movies over time? How has the number of new additions to Netflix's library evolved?
 
   - **Genre Popularity :** What are the most and least popular genres in Netflix’s library? How does genre popularity differ by region or over time?
 
-  - **Content Characteristics :** What are the typical characteristics (e.g., duration, rating) of TV shows vs movies? How do these characteristics vary by genre or release year?
+  - **Content Characteristics :** What are the typical characteristics (e.g., duration, rating) of TV Shows vs Movies? How do these characteristics vary by genre or release year?
 
   - **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
  
@@ -101,7 +101,7 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 **Importing Libraries**
 
-  - Importing Pandas, Matplotlib and Seaborn libraries
+  - Importing pandas, matplotlib and seaborn libraries
 
 **Reading CSV File**
 
@@ -125,7 +125,7 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 **Utilizing existing information to create new Columns**
 
-  - Extracting Year, Month and Dates from date_added column
+  - Extracting year, month and dates from date_added column
  
   - Splitting listed_in column and selecting first value as genre
  
