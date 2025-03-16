@@ -195,9 +195,15 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 ## Conclusion
 
-- In summary, this analysis has provided valuable insights into Netflix’s content library, revealing trends and patterns that can inform strategic decisions.
+Here are some key findings about the analysis :
 
-- By addressing these insights, Netflix can enhance its content offerings and better meet the needs of its global audience.
+- Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
+
+- More than 60% of the content on Netflix is rated for Mature Audience Only.
+  
+- More than 20% of the Movies and TV Shows are uploaded on 1st Day of the Month.
+  
+- More than 30% of the content is exclusive for United States.
 
 <div align='left'>
   
