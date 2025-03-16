@@ -54,16 +54,18 @@ jupyter notebook
 
 ## Libraries required for the Project
 
+**NumPy**
+
+- Go to the terminal and run this code
+```
+pip install numpy
+```
+
 **Pandas**
 
 - Go to the terminal and run this code
 ```
 pip install pandas
-```
-
-- Go to Jupyter Notebook and run this code from a cell
-```
-!pip install pandas
 ```
 
 **Matplotlib**
@@ -73,21 +75,11 @@ pip install pandas
 pip install matplotlib
 ```
 
-- Go to Jupyter Notebook and run this code from a cell
-```
-!pip install matplotlib
-```
-
 **Seaborn**
 
 - Go to the terminal and run this code
 ```
 pip install seaborn
-```
-
-- Go to Jupyter Notebook and run this code from a cell
-```
-!pip install seaborn
 ```
 
 ## Getting Started
