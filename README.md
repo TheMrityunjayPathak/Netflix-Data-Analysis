@@ -12,7 +12,7 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
 ## Problem Statement
 
-- To gain insights into the content available on Netflix, understanding the patterns and trends to uncover valuable insights into how the platform curates and evolves its offerings.
+- To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.
 
 - This Exploratory Data Analysis (EDA) aims to address the following key questions :
 
