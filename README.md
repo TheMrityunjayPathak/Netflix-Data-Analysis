@@ -105,7 +105,7 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
  
   - Types of column present in the dataset (numerical, categorical, text).
  
-  - Detailed Info about the dataset using df.info() method.
+  - Detailed info about the dataset using df.info() method.
 
 **Handling Null values in the Dataset**
 
