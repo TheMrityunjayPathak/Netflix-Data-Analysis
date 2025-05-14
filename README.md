@@ -197,13 +197,13 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 
 Here are some key findings about the analysis :
 
-- Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
+- Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
 
-- More than 60% of the content on Netflix is rated for Mature Audience Only.
-  
-- More than 20% of the Movies and TV Shows are uploaded on 1st Day of the Month.
-  
-- More than 30% of the content is exclusive for United States.
+- More than 60% of the content on netflix is rated for mature audience only.
+
+- More than 20% of the movies and tv shows are uploaded on 1st day of the month.
+
+- More than 30% of the content is exclusive for united states.
 
 <div align='left'>
   
