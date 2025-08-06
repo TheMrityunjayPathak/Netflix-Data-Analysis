@@ -2,7 +2,7 @@
 
 Netflix has become a major player in the entertainment industry offering a diverse array of TV Shows and Movies to its global audience.
 
-This dataset provides a snapshot of Netflix's content library including various attributes such as titles, genres, release years, ratings and durations.
+This dataset provides a snapshot of Netflix's content library including various attributes such as titles, genres, ratings, durations, etc.
 
 ## Dataset
 
@@ -13,22 +13,6 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 ## Problem Statement
 
 - To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
-
-- This Exploratory Data Analysis (EDA) aims to address the following key questions :
-
-  - **Content Distribution :** What are the distribution patterns of TV Shows and Movies across different genres and countries? How does the content vary in terms of release year and rating?
-
-  - **Trend Analysis :** Are there observable trends in the release of TV Shows and Movies over time? How has the number of new additions to Netflix's library evolved?
-
-  - **Genre Popularity :** What are the most and least popular genres in Netflix’s library? How does genre popularity differ by region or over time?
-
-  - **Content Characteristics :** What are the typical characteristics (e.g., duration, rating) of TV Shows vs Movies? How do these characteristics vary by genre or release year?
-
-  - **Regional Diversity :** How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
- 
-- This analysis will provide a deeper understanding of Netflix content library, revealing trends and patterns that can address future content strategy and development.
-
-<a href='https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis'><img src='https://github.com/user-attachments/assets/34fa8078-f967-41f4-b203-e1a0fcf4e0f9'></a>
 
 ## Table of Contents
 
