@@ -12,7 +12,7 @@ The dataset used for this analysis is sourced from Kaggle and includes informati
 
 ## Problem Statement
 
-- To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
+- To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
 
 ## Table of Contents
 
