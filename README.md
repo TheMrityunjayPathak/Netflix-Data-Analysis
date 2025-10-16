@@ -5,7 +5,7 @@
 <hr>
 
 ## Dataset
-- The dataset used for this analysis is sourced from Kaggle and includes information on Netflix TV Shows and Movies.
+- The dataset is sourced from Kaggle and includes information on Netflix TV Shows and Movies.
 - **Link to the Dataset :** [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 <hr>
