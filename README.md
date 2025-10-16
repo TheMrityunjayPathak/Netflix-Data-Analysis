@@ -1,6 +1,7 @@
 ## Netflix Data Analysis
-- Netflix is a leading entertainment platform offering a diverse global library of TV shows and movies.
-- This dataset offers a snapshot of its content, including titles, genres, ratings, durations, and more.
+- Netflix is a leading entertainment platform offering a diverse global library of TV Shows and Movies.
+- This dataset offers a comprehensive snapshot of Netflix's catalog, capturing key details.
+- By analyzing this data, we aim to uncover trends and patterns in Netflix's content over time.
 
 <hr>
 
